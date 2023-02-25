@@ -14,7 +14,7 @@ function Timer() {
 
   return (
     <>
-       <div style={{height : "400px"}}>
+       <div>
            <h2>Timer</h2>
             <p>Counter :  {timer}</p>
        </div>
